@@ -7,7 +7,7 @@ function theBeatlesPlay(arrMusic, arrInst) {
     newArr.push(arrMusic[i] + " plays " + arrInst[i]);
   }
   
-  return newArray;
+  return newArr;
 }
 
 function johnLennonFacts(facts) {
